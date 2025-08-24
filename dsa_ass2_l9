@@ -1,0 +1,7 @@
+lst=eval(input("Enter a list"))
+rep=int(input("Enter item to  replace"))
+new=int(input("Enter item to be added"))
+if rep in lst:
+    index=lst.index(rep)
+    lst[index]=new
+print(lst)

@@ -1,0 +1,4 @@
+lst = [1, 2, 3]
+index = lst.index(2)
+lst.insert(index + 1, 99)
+print(lst)

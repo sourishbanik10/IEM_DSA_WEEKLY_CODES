@@ -1,0 +1,3 @@
+lst = eval(input("Enter a list"))
+lst.reverse()
+print(lst)

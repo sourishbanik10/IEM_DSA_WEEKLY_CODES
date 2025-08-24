@@ -1,0 +1,4 @@
+lst = ["Hi", "", "Hello", ""]
+cleaned = [s for s in lst if s]
+print(cleaned)
+

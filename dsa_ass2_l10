@@ -1,0 +1,6 @@
+lst = eval(input("Enter a list"))
+item=int(input("Enter item to be removed"))
+for i in lst:
+    if i==item:
+        lst.remove(item)
+print(lst)
