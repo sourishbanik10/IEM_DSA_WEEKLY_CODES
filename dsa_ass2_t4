@@ -1,0 +1,10 @@
+# Example tuple
+my_tuple = (1, 2, 3, 4)
+
+# Unpack the tuple into 4 variables
+a, b, c, d = my_tuple
+
+print(a)  # Output: 1
+print(b)  # Output: 2
+print(c)  # Output: 3
+print(d)

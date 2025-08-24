@@ -1,0 +1,7 @@
+
+tuple_of_tuples = ((1, 4), (3, 1), (5, 2), (2, 3))
+
+
+sorted_tuple = tuple(sorted(tuple_of_tuples, key=lambda x: x[1]))
+
+print(sorted_tuple)  

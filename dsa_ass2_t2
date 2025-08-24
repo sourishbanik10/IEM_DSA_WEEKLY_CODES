@@ -1,0 +1,6 @@
+
+my_tuple = (10, 20, 30, 40)
+
+
+value = my_tuple[1]
+print(value)

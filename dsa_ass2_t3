@@ -1,0 +1,3 @@
+
+single_item_tuple = (10,)
+print(single_item_tuple) 
